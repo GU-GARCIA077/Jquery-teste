@@ -1,0 +1,73 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+
+}
+#color{
+    background-color: white;
+    max-width: 100%;
+}
+h1{
+    color: white;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+#c1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: white;
+}
+
+a.nav-link{
+    color: white;
+    font-size: 1rem;
+}
+#c2{
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    max-width: 80%;
+    flex-wrap: wrap;
+}
+#c3{
+    background-color: darkgrey;
+    max-width: 80%;
+    min-height: 30rem;
+}
+#imagens{
+    display: flex;
+    text-align: justify;
+    flex-direction: row;
+    max-width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top:5rem ;
+    
+}
+.link2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+#efeitorod{
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    
+}
+.botoes{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 60%;
+    align-items: center;
+    
+}
